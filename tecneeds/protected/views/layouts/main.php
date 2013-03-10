@@ -16,7 +16,7 @@
 
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700|Open+Sans:400,600|Graduate' rel='stylesheet' type='text/css'>
 
-	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+	<title>ULance : Connecting Student Talent with Industry</title>
 </head>
 
 <body>
@@ -38,8 +38,8 @@
         <div class="nav-collapse">
             <ul class="nav">
 
-                        <li><a href=""><i class="icon-beaker"></i> For Students</a></li>
-                        <li><a href=""><i class="icon-building"></i> For Companies</a></li>
+                        <li><a href="/for/students"><i class="icon-beaker"></i> For Students</a></li>
+                        <li><a href="/for/businesses"><i class="icon-building"></i> For Buisnesses</a></li>
             </ul>
 
             </div><!--/.nav-collapse -->

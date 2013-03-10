@@ -162,6 +162,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #home-main .thumbnail{
-    background-image: none;
-    background-color: #fff;
+    background: none #fff;
+
+
+}
+
+.home-square img{
+    width: 50%;
 }
