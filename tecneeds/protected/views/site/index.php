@@ -1,7 +1,7 @@
 <div class="container">
 
       <!-- Main hero unit for a primary marketing message or call to action -->
-<div class="row-fluid">
+<div class="row-fluid" id="home-main">
             <div class="span6 thumbnail home-square">
                 <br>&nbsp;
                 <img src="/images/icon-building.png" alt="">
