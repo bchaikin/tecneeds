@@ -11,7 +11,8 @@
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
     <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css" rel="stylesheet">
-
+    <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
     <link href="/css/style.css" rel="stylesheet">
 
     <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700|Open+Sans:400,600|Graduate' rel='stylesheet' type='text/css'>
@@ -38,8 +39,9 @@
         <div class="nav-collapse">
             <ul class="nav">
 
-                        <li><a href="/for/students"><i class="icon-beaker"></i> For Students</a></li>
+
                         <li><a href="/for/businesses"><i class="icon-building"></i> For Buisnesses</a></li>
+                <li><a href="/for/students"><i class="icon-beaker"></i> For Students</a></li>
             </ul>
 
             </div><!--/.nav-collapse -->

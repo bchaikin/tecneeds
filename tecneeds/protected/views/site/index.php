@@ -6,7 +6,7 @@
                 <br>&nbsp;
                 <img src="/images/icon-building.png" alt="">
 
-                <h2>I am a business owner<br>looking for technology talent</h2>
+                <h2>I am a business <br>looking for technology talent</h2>
 
                 <a href="/for/businesses" class="btn btn-info btn-large"><i class="icon-briefcase"></i> Get Started Now </a>
 

@@ -1,5 +1,5 @@
-<div class="span12">
-    <div><h1>Join + Earn!<small><br>
+<div class="span12 form-container" id="">
+    <div><h1><i class="icon-beaker"></i> Join + Earn!<small><br>
                 Sign-up today and make money, build your network, and get real-world eperience!</div>
     <div class="well">
 
@@ -121,9 +121,26 @@
           <div class="control-group">
             <div class="controls">
 
-              <button type="button" class="btn btn-success">Start My Career!</button>
+              <button type="button" class="btn btn-success btn-large">Join ULance Now <i class="icon-chevron-right"></i></button>
             </div>
           </div>
         </form>
     </div>
 </div>
+<div class="msg-container span12 alert alert-success" style="display: none">
+    <h1>Thank You</h1>
+    <hr>
+    <h4><i class="icon-check"></i> Your request has been submitted.  A student evaluator will be in contact soon.</h4>
+    <br>&nbsp;
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $(".btn").click(function(){
+        $(".form-container").fadeOut(function(){
+            $(".msg-container").fadeIn();
+        });
+    })
+});
+
+</script>
