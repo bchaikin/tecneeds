@@ -161,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center
 }
 
-#home-main .thumbnail{
+.thumbnail{
     background: none #fff;
 
 
@@ -169,4 +169,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .home-square img{
     width: 50%;
+}
+
+.our-ratings{
+    color: rgba(3, 105, 166, 0.61);
+}
+
+.profile-single{
+    list-style-type: none;
 }

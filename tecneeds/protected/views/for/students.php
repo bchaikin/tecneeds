@@ -9,7 +9,7 @@
                 <legend>Student Contact Information</legend>
                   <!-- Full Name-->
                   <div class="control-group">
-                    <label class="control-label" for="inputEmail">Full Name</label>
+                    <label class="control-label" for="">Full Name</label>
                     <div class="controls">
                       <input type="text" id="" placeholder="Full Name">
                     </div>
