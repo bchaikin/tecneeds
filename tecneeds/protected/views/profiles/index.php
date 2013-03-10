@@ -43,6 +43,7 @@
                 <li class="our-ratings">
                     <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                 </li>
+                <li><a href="" class="btn btn-info"><i class="icon-search"></i> View Profile</a></li>
                     </ul>
 
                 </p>
@@ -73,6 +74,7 @@
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                         </li>
+                        <li><a href="" class="btn btn-info"><i class="icon-search"></i> View Profile</a></li>
                             </ul>
 
                         </p>
@@ -103,6 +105,7 @@
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                         </li>
+                        <li><a href="" class="btn btn-info"><i class="icon-search"></i> View Profile</a></li>
                             </ul>
 
                         </p>
@@ -133,6 +136,7 @@
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i>
                         </li>
+                        <li><a href="" class="btn btn-info"><i class="icon-search"></i> View Profile</a></li>
                             </ul>
 
                         </p>
