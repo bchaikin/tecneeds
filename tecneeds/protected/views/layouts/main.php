@@ -14,7 +14,7 @@
 
     <link href="/css/style.css" rel="stylesheet">
 
-    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700|Open+Sans:400,600' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,700|Open+Sans:400,600|Graduate' rel='stylesheet' type='text/css'>
 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 </head>
@@ -31,7 +31,7 @@
             <a class="brand" href="/">
 
 
-                uLance
+                ULance
 
             </a>
 

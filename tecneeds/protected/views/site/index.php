@@ -3,22 +3,22 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
 <div class="row-fluid">
             <div class="span6 thumbnail home-square">
-
+                <br>&nbsp;
                 <img src="/images/icon-building.png" alt="">
                 <br>&nbsp;
                 <h2>I am a business owner<br>looking for technology talent</h2>
                 <br>&nbsp;
-                <a href="" class="btn btn-info btn-large">Get Started Now </a>
+                <a href="" class="btn btn-info btn-large"><i class="icon-briefcase"></i> Get Started Now </a>
 
                 <br>&nbsp;
             </div>
             <div class="span6 thumbnail home-square">
-
+                <br>&nbsp;
                     <img src="/images/icon-students.png" alt="">
                 <br>&nbsp;
                     <h2>I am a technology<br>student looking for work</h2>
                 <br>&nbsp;
-                    <a href="" class="btn btn-success btn-large">Get Started Now </a>
+                    <a href="" class="btn btn-success btn-large"><i class="icon-user"></i> Get Started Now </a>
                 <br>&nbsp;
 
                 </div>
