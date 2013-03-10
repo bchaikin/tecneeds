@@ -2139,3 +2139,99 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/favicon.ico
 ---
+2013/03/10 01:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:00:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:01:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:01:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:02:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:02:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:03:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:04:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:04:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:05:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:05:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/03/10 01:05:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /Users/bryan/Sites/tecneeds/tecneeds/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /Users/bryan/Sites/tecneeds/tecneeds/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---

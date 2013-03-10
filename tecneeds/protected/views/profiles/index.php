@@ -37,6 +37,9 @@
                 <li>
                                     <i class="icon-beaker"></i> Information Systems
                                 </li>
+                <li>
+                                                                                    <i class="icon-time"></i> $30 per hour
+                                                                                </li>
                 <li class="our-ratings">
                     <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                 </li>
@@ -59,11 +62,14 @@
                             <i class="icon-map-marker"></i> Linux, OH
                         </li>
                         <li>
-                            <i class="icon-building"></i> CWRU
+                            <i class="icon-building"></i> Cleveland State
                         </li>
                         <li>
                                             <i class="icon-beaker"></i> Information Systems
                                         </li>
+                        <li>
+                                                                    <i class="icon-time"></i> $0 per hour
+                                                                </li>
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                         </li>
@@ -86,11 +92,14 @@
                             <i class="icon-map-marker"></i> Lakewood, OH
                         </li>
                         <li>
-                            <i class="icon-building"></i> CWRU
+                            <i class="icon-building"></i> Kent State
                         </li>
                         <li>
                                             <i class="icon-beaker"></i> Information Systems
                                         </li>
+                        <li>
+                                                                                            <i class="icon-time"></i> $1B per hour
+                                                                                        </li>
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
                         </li>
@@ -113,11 +122,14 @@
                             <i class="icon-map-marker"></i> Akron, OH
                         </li>
                         <li>
-                            <i class="icon-building"></i> CWRU
+                            <i class="icon-building"></i> St. Vincent / Mary High
                         </li>
                         <li>
                                             <i class="icon-beaker"></i> Information Systems
                                         </li>
+                        <li>
+                                                                                            <i class="icon-time"></i> $1M per hour
+                                                                                        </li>
                         <li class="our-ratings">
                             <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i>
                         </li>
