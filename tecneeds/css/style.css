@@ -1,0 +1,159 @@
+#mainNav .navbar-inner {
+    min-height: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #0068A6;
+    background-image: -moz-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -ms-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9eb9), to(#477998));
+    background-image: -webkit-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -o-linear-gradient(top, #6d9eb9, #477998);
+    background-image: linear-gradient(top, #6d9eb9, #477998);
+    background-repeat: repeat-x;
+
+    filter: progid:dximagetransform.microsoft.gradient(startColorstr='#6d9eb9', endColorstr='#477998', GradientType=0);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1);
+}
+
+
+#mainNav.navbar .nav > li > a {
+    padding: 15px 15px;
+    color: #fff;
+    text-shadow: none;
+}
+
+#mainNav .navbar .nav > li > a:hover{
+    color: #fff;
+}
+
+#mainNav .navbar .nav > li {
+    /*text-shadow:0 -1px 0 #015586;
+    text-transform:uppercase;*/
+    font-size: 20px;
+
+}
+
+#mainNav .navbar .nav > li:nth-last-child(2), #mainNav.navbar .nav > li:last-child{
+    background: none;
+}
+
+#mainNav .nav-collapse .nav > li > a,#mainNav  .nav-collapse .dropdown-menu a {
+
+
+    font-size: 15px;
+    font-weight: normal;
+}
+
+#mainNav .navbar .nav > li > a{
+
+}
+.nav-pills > li > a{
+    font-family: "museo-slab","Coustard",serif;
+    font-size: 18px;
+}
+
+#mainNav .navbar .nav .active > a,#mainNav.navbar .nav .active > a:hover {
+    background-color: #0069a6;
+}
+
+#mainNav .navbar-search .search-query{
+    margin: 5px;
+    font-family: "runda",sans-serif;
+    /*
+    background-color: #477998;
+    border: 1px solid #105678;
+    */
+}
+
+#mainNav.navbar .btn-navbar {
+    background-color: #0068A6;
+    background-image: -moz-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -ms-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9eb9), to(#477998));
+    background-image: -webkit-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -o-linear-gradient(top, #6d9eb9, #477998);
+    background-image: linear-gradient(top, #6d9eb9, #477998);
+}
+#mainNav.navbar .btn-navbar:hover  {
+    background-color: #0068A6;
+    background-image: -moz-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -ms-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#6d9eb9), to(#477998));
+    background-image: -webkit-linear-gradient(top, #6d9eb9, #477998);
+    background-image: -o-linear-gradient(top, #6d9eb9, #477998);
+    background-image: linear-gradient(top, #6d9eb9, #477998);
+}
+
+
+#mainNav .nav-collapse .nav > li > a:hover, .nav-collapse .dropdown-menu a:hover{
+    background-color: #76a8c0;
+}
+
+#mainNav .navbar-form, .nav-collapse .navbar-search {
+    border: none;
+}
+
+#nav-zip-container .input-small{
+    margin: 6px 0 0 -4px;
+
+}
+
+#nav-zip-container .btn{
+    margin-left: 0px;
+}
+
+#mainNav .nav .icon-white {margin-top: 2px;}
+
+#mainNav .navbar .btn-navbar{
+    margin-top: 10px;
+}
+
+.navbar-text{
+    font-family: "ff-basic-gothic-web-pro", 'Istok Web', AppleGothic, "helvetica neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    color: rgba(148, 148, 148, 0.80);
+    margin: 0 20px;
+    white-space: nowrap;
+
+}
+
+.brand{
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.navbar .brand {
+    float: left;
+    display: block;
+    padding: 13px 20px 10px;
+    margin-left: -20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #fafafa;
+    text-shadow: none;
+
+}
+
+body{
+
+    padding-top: 80px;
+
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.hero-unit h2{
+    text-align: center;
+}
+
+.home-square{
+    text-align: center
+}
